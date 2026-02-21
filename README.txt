@@ -4,7 +4,7 @@ A Python-based CSV data processing system that automatically applies multiple da
 
 ---
 
-## Features
+# Features
 
 1. Merge multiple CSV files from a folder
 2. Append two CSV files without duplicate index issues
@@ -16,7 +16,7 @@ A Python-based CSV data processing system that automatically applies multiple da
 
 ---
 
-## Project Purpose
+# Project Purpose
 
 This project was developed to practice:
 
@@ -30,7 +30,7 @@ It simulates a small-scale automated data processing system similar to real-worl
 
 ---
 
-## Project Structure
+# Project Structure
 
 ```
 csv-processor/
@@ -45,13 +45,13 @@ csv-processor/
 
 ---
 
-## Installation
+# Installation
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/Marvex0/CSV-Processor
+cd CSV-Processor
 ```
 
 Install dependencies:
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Place your CSV files inside the **input/** folder, then run:
+Place your CSV files inside the input/ folder, then run:
 
 ```bash
 python main.py
@@ -82,7 +82,7 @@ Processed files will appear in the **output/** folder.
 
 ---
 
-## Running Tests
+# Running Tests
 
 ```bash
 pytest
@@ -92,9 +92,9 @@ All functions are validated using automated unit tests.
 
 ---
 
-## Continuous Integration
+# Continuous Integration
 
-This project uses **GitHub Actions** to automatically:
+This project uses *GitHub Actions* to automatically:
 
 * install dependencies
 * run tests
@@ -104,7 +104,7 @@ on every push and pull request.
 
 ---
 
-## Requirements
+# Requirements
 
 * Python 3.14
 * pandas
