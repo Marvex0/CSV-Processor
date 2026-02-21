@@ -20,7 +20,7 @@ A Python-based CSV data processing system that automatically applies multiple da
 
 This project was developed to practice:
 
-* Python data processing with **pandas**
+* Python data processing with *pandas*
 * Modular software design
 * Automated testing workflows
 * CI/CD fundamentals
@@ -109,7 +109,6 @@ on every push and pull request.
 * Python 3.14
 * pandas
 * numpy
-* pytest
 
 ---
 
