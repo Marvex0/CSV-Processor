@@ -7,7 +7,7 @@ A Python-based CSV data processing system that automatically applies multiple da
 
 # Features
 
-1. Merge multiple CSV files from a folder
+1. Merge multiple CSV files from a folder 
 2. Append two CSV files without duplicate index issues
 3. Split CSV files by row count
 4. Split CSV files by column
