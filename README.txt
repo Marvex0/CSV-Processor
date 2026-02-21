@@ -2,6 +2,7 @@
 
 A Python-based CSV data processing system that automatically applies multiple data transformations and validations on .CSV files.
 
+![CI](https://github.com/Marvex0/CSV-Processor/actions/workflows/ci.yml/badge.svg)
 ---
 
 # Features
@@ -113,3 +114,4 @@ on every push and pull request.
 ---
 
 This project is solely for educational purposes
+
